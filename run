@@ -1,0 +1,1 @@
+ssh -i "rhel.pem" ec2-user@ec2-15-207-106-37.ap-south-1.compute.amazonaws.com
